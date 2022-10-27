@@ -3,4 +3,5 @@
 #### Files:
 | File | Description |
 | ---- | ---- |
-| Sales_pivot_tables.xlxs | Looks at the concept of pivot tables in excel |
+| Sales_pivot_tables.xlsx | Looks at the concept of pivot tables in excel |
+| Formula_Excel.xlsx | Explores some of the commonly used formlas in Excel |
