@@ -7,3 +7,4 @@
 | Formula_Excel.xlsx | Explores some of the commonly used formlas in Excel |
 | Conditional_Formatting_Excel.xlsx | Choosing a set of cells based on conditions; From the ```Home Tab``` explore ```Conditional Formatting``` |
 | Excel_Charts_Tutorial.xlsx | Charts visualization in excel |
+| XLOOKUP_Excel_tutorial.xlsx | XLookup a new feature in MSWord for searching an array for a value for a given search; Its is an imporvement of the VLOOKUP feature |
